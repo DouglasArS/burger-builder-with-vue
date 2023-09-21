@@ -1,0 +1,85 @@
+{
+  "ingredients": {
+    "breads": [
+      {
+        "id": 1,
+        "type": "White Italian Bread"
+      },
+      {
+        "id": 2,
+        "type": "3 Cheeses"
+      },
+      {
+        "id": 3,
+        "type": "Parmesan and Oregano"
+      },
+      {
+        "id": 4,
+        "type": "Whole Wheat Bread"
+      },
+      {
+        "id": 4,
+        "type": "Mexican Bread"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "type": "Rump Steak"
+      },
+      {
+        "id": 2,
+        "type": "Top Sirloin"
+      },
+      {
+        "id": 3,
+        "type": "Rump Cap"
+      },
+      {
+        "id": 4,
+        "type": "Veggie Burger"
+      }
+    ],
+    "optional_list": [
+      {
+        "id": 1,
+        "type": "Bacon"
+      },
+      {
+        "id": 2,
+        "type": "Cheddar"
+      },
+      {
+        "id": 3,
+        "type": "Salami"
+      },
+      {
+        "id": 4,
+        "type": "Tomato"
+      },
+      {
+        "id": 4,
+        "type": "Red Onion"
+      },
+      {
+        "id": 4,
+        "type": "Cucumber"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "type": "Requested"
+    },
+    {
+      "id": 2,
+      "type": "In production"
+    },
+    {
+      "id": 3,
+      "type": "Done"
+    }
+  ],
+  "burgers": []
+}
